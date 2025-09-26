@@ -1,0 +1,14 @@
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.AssemblyInfoInputs.cache
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.AssemblyInfo.cs
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.csproj.CoreCompileInputs.cache
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\bin\Debug\net9.0\Ejercicio.N°7.exe
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\bin\Debug\net9.0\Ejercicio.N°7.deps.json
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\bin\Debug\net9.0\Ejercicio.N°7.runtimeconfig.json
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\bin\Debug\net9.0\Ejercicio.N°7.dll
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\bin\Debug\net9.0\Ejercicio.N°7.pdb
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.dll
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\refint\Ejercicio.N°7.dll
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.pdb
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\Ejercicio.N°7.genruntimeconfig.cache
+C:\Users\marvi\OneDrive\Desktop\UAM Programacion\Introduccion_Program 2do semestre\Ejercicio 7\Ejercicio.N°7\obj\Debug\net9.0\ref\Ejercicio.N°7.dll
