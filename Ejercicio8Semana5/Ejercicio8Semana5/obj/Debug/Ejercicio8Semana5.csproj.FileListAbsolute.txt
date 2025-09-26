@@ -1,0 +1,7 @@
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\bin\Debug\Ejercicio8Semana5.exe.config
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\bin\Debug\Ejercicio8Semana5.exe
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\bin\Debug\Ejercicio8Semana5.pdb
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\obj\Debug\Ejercicio8Semana5.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\obj\Debug\Ejercicio8Semana5.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\obj\Debug\Ejercicio8Semana5.exe
+C:\Users\denis\source\repos\Ejercicio8Semana5\Ejercicio8Semana5\obj\Debug\Ejercicio8Semana5.pdb
